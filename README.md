@@ -89,7 +89,7 @@ python bot.py
 5. If a change is detected:
    - Sends an email notification with the updated data.
    - Updates `data_hash.txt` with the new hash.
-6. Logs out and waits for 2 minutes before logging back in.
+6. Logs out and waits for 2 minutes before logging back in (you can adapt how long it waits before it logs back in).
 
 ---
 
